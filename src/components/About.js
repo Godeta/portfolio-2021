@@ -107,7 +107,7 @@ export default function About() {
         }, []);
         if(!author) return <div> En cours de chargement...</div>;
         */
-        return /*(
+        return <div></div> /*(
             <main className="relative"> 
                 <img src={backgroundComputerScience} alt="setup pour programmer" className="absolute w-full" />
                 <div className="p-10 lg:pt-48 container mx-auto relative">
