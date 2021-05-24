@@ -1,6 +1,7 @@
 import sanityClient from '@sanity/client'
 
 export default sanityClient({
-    projectID: "48fh369m",
-    dataset: "production"
+    projectId: `48fh369m`,
+    dataset: `production`,
+    apiVersion: `2021-05-24` // use current UTC date - see "specifying API version"!
 })
