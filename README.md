@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Using this project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Start by installing all dependencies and run the test (npm install and npm test)
+
+Then if you do npm start it should work.
+You can use sanity by going into the studio folder and type sanity start.
 
 ## Available Scripts
 
