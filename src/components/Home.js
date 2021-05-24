@@ -1,5 +1,5 @@
 import React from 'react';
-import image from "../roboticsHelpHuman.jpg";
+import image from "../img/roboticsHelpHuman.jpg";
 
 export default function Home() {
     return (
